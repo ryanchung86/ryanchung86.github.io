@@ -27,6 +27,14 @@ body {
   padding-bottom: 50px;
 }
 
+.link {
+  width: 10%;
+}
+
+.social-links {
+  text-align: center;
+}
+
 .timeline {
     list-style: none;
     padding: 20px 0 20px;
