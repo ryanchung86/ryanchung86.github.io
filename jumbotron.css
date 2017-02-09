@@ -4,11 +4,27 @@ body {
   padding-bottom: 20px;
 }
 
-
-
 .mugshot {
   padding-top: 20px;
   width: 70%;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.poker-logo {
+  width: 41px;
+  height: 47px;
+}
+
+.construction-logo {
+  width: 80%;
+}
+
+.row {
+  padding-bottom: 50px;
 }
 
 .timeline {
@@ -99,7 +115,7 @@ body {
             top: 16px;
             left: 50%;
             margin-left: -25px;
-            background-color: #999999;
+            /*background-color: #999999;*/
             z-index: 100;
             border-top-right-radius: 50%;
             border-top-left-radius: 50%;
@@ -124,26 +140,6 @@ body {
                 left: -14px;
                 right: auto;
             }
-
-.timeline-badge.primary {
-    background-color: #2e6da4 !important;
-}
-
-.timeline-badge.success {
-    background-color: #3f903f !important;
-}
-
-.timeline-badge.warning {
-    background-color: #f0ad4e !important;
-}
-
-.timeline-badge.danger {
-    background-color: #d9534f !important;
-}
-
-.timeline-badge.info {
-    background-color: #5bc0de !important;
-}
 
 .timeline-title {
     margin-top: 0;
